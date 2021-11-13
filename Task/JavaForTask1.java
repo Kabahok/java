@@ -1,9 +1,5 @@
 package com.it_cot.JavaLearn.Task;
 
-import com.it_cot.JavaLearn.JavaForWhile;
-
-import java.sql.Array;
-
 /**
  * Написать программу, заносящая в массив первые 100 целых чисел делящихся на 13
  * или 17 и печатаюшую его
